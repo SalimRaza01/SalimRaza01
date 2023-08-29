@@ -1,6 +1,7 @@
 
-![68747470733a2f2f63646e2e6472696262626c652e636f6d2f757365727](https://github.com/SalimRaza01/SalimRaza01/assets/108859692/492886c6-90af-4ee1-a516-224b037e6160)
-
+<p align="center">
+<img src="https://github.com/SalimRaza01/SalimRaza01/assets/108859692/492886c6-90af-4ee1-a516-224b037e6160">
+</p>
 
                          ＵＩ  ＤＥＳＩＧＮＥＲ  &  ＲＥＡＣＴ  ＮＡＴＩＶＥ  ＤＥＶＥＬＯＰＥＲ
 
