@@ -17,9 +17,7 @@
 
 
 <!-- Skills -->
-<h2 align="center">Skills</h2>
 <p align="center">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--B7lj0r3y--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vvsq4h7d5ol45lfbrzoy.png">
 <img src="https://img.shields.io/badge/-HTML-orange?style=flat-square">
   <img src="https://img.shields.io/badge/-CSS-blue?style=flat-square">
   <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square">
