@@ -1,4 +1,5 @@
-![Untitled design-2](https://github.com/SalimRaza01/SalimRaza01/assets/108859692/010d33d8-0888-42d9-98ae-7db12731452f)
+![241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5](https://github.com/SalimRaza01/SalimRaza01/assets/108859692/2f74a883-cbe6-4616-b6fe-e156406d5c06)
+
 
                          ＵＩ  ＤＥＳＩＧＮＥＲ  &  ＲＥＡＣＴ  ＮＡＴＩＶＥ  ＤＥＶＥＬＯＰＥＲ
 
@@ -19,6 +20,7 @@
 <h2 align="center">Skills</h2>
 <p align="center">
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--B7lj0r3y--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vvsq4h7d5ol45lfbrzoy.png">
+<img src="https://img.shields.io/badge/-HTML-orange?style=flat-square">
   <img src="https://img.shields.io/badge/-CSS-blue?style=flat-square">
   <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square">
   <!-- Add more skills badges -->
