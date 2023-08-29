@@ -1,5 +1,5 @@
-𝗨𝗜 𝗗𝗘𝗦𝗜𝗚𝗡𝗘𝗥 & 𝗡𝗔𝗧𝗜𝗩𝗘 𝗖𝗢𝗗𝗘𝗥
-![giphy](https://github.com/SalimRaza01/SalimRaza01/assets/108859692/75a5eb43-cdb6-4b8f-a0d5-7b5af1a38509),![mobile-app](https://github.com/SalimRaza01/SalimRaza01/assets/108859692/8e83cbaa-4cdc-4e58-b798-9a845c50aa8f)
+![Untitled design-2](https://github.com/SalimRaza01/SalimRaza01/assets/108859692/010d33d8-0888-42d9-98ae-7db12731452f)
 
+[𝗨𝗜 𝗗𝗘𝗦𝗜𝗚𝗡𝗘𝗥 & 𝗡𝗔𝗧𝗜𝗩𝗘 𝗖𝗢𝗗𝗘𝗥](https://www.fancytextpro.com/BigTextGenerator?qtext=UI%20%20DESIGNER%20%20%26%20%20REACT%20%20NATIVE%20%20DEVELOPER)https://www.fancytextpro.com/BigTextGenerator?qtext=UI%20%20DESIGNER%20%20%26%20%20REACT%20%20NATIVE%20%20DEVELOPER
 
 
