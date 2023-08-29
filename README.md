@@ -1,6 +1,6 @@
 ![Untitled design-2](https://github.com/SalimRaza01/SalimRaza01/assets/108859692/010d33d8-0888-42d9-98ae-7db12731452f)
 
-<p align="center">ＵＩ  ＤＥＳＩＧＮＥＲ  &  ＲＥＡＣＴ  ＮＡＴＩＶＥ  ＤＥＶＥＬＯＰＥＲ</p>
+                         ＵＩ  ＤＥＳＩＧＮＥＲ  &  ＲＥＡＣＴ  ＮＡＴＩＶＥ  ＤＥＶＥＬＯＰＥＲ
 
 <!-- Header -->
 <h1 align="center">Hi there, I'm SALIM RAZA 👋</h1>
@@ -27,5 +27,5 @@
 <!-- GitHub Stats -->
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=SalimRaza01&show_icons=true&theme=radical">
 </p>
