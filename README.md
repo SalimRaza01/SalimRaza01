@@ -3,7 +3,7 @@
 <img src="https://github.com/SalimRaza01/SalimRaza01/assets/108859692/492886c6-90af-4ee1-a516-224b037e6160">
 </p>
 
-                                    ＵＩ  ＤＥＳＩＧＮＥＲ  &  ＲＥＡＣＴ  ＮＡＴＩＶＥ  ＤＥＶＥＬＯＰＥＲ
+                                    ＦＬＵＴＴＥＲ ＤＥＶＥＬＯＰＥＲ ＆ ＵＩ／ＵＸ ＤＥＳＩＧＮＥＲ
 
 <!-- Header -->
 <h1 align="center">Hi there, I'm SALIM RAZA 👋</h1>
@@ -13,7 +13,7 @@
   <samp>
     A passionate developer from DELHI.
     <br>
-    I love to Design & Develope UI.
+    I love to Design & Develope.
   </samp>
 </p>
 
