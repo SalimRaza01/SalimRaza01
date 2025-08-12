@@ -1,7 +1,6 @@
 
 <p align="center">
-![1*kzyNlgVr0S1rqESP39OQbg](https://github.com/user-attachments/assets/f84f2a09-d19f-47cf-90fd-2245e61c5ff7)
-
+![SS](https://github.com/user-attachments/assets/daaf382c-3022-4acf-b63b-b19ce5f87618)
 </p>
 
                                     ＦＬＵＴＴＥＲ ＤＥＶＥＬＯＰＥＲ ＆ ＵＩ／ＵＸ ＤＥＳＩＧＮＥＲ
