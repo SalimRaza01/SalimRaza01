@@ -1,6 +1,7 @@
 
 <p align="center">
-<img src="https://github.com/SalimRaza01/SalimRaza01/assets/108859692/492886c6-90af-4ee1-a516-224b037e6160">
+![1*kzyNlgVr0S1rqESP39OQbg](https://github.com/user-attachments/assets/f84f2a09-d19f-47cf-90fd-2245e61c5ff7)
+
 </p>
 
                                     ＦＬＵＴＴＥＲ ＤＥＶＥＬＯＰＥＲ ＆ ＵＩ／ＵＸ ＤＥＳＩＧＮＥＲ
