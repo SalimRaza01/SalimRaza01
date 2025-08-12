@@ -1,7 +1,7 @@
-
 <p align="center">
-![SS](https://github.com/user-attachments/assets/daaf382c-3022-4acf-b63b-b19ce5f87618)
+  <img src="https://github.com/user-attachments/assets/daaf382c-3022-4acf-b63b-b19ce5f87618" alt="SS" />
 </p>
+
 
                                     ＦＬＵＴＴＥＲ ＤＥＶＥＬＯＰＥＲ ＆ ＵＩ／ＵＸ ＤＥＳＩＧＮＥＲ
 
